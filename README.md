@@ -1,5 +1,4 @@
-# Docker-elasticsearch-filebeat-kibana
-Docker - Elastic Stack: Elasticsearch, Filebeat y Kibana.
+# Docker - Elastic Stack: Elasticsearch, Filebeat y Kibana
 
 Ejemplo del envío de logs de Apache2 a través de Filebeat desde la máquina cliente al Elasticsearch de la máquina servidor y visualizarlos en Kibana.
 
